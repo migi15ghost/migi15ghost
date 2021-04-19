@@ -1,4 +1,4 @@
-<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://kevincui.dev">Kevin Junyang Cui</a></b></samp></h3>
+<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://kevincui.dev">Miguel Poma </a></b></samp></h3>
 <p align="center"><br>
   <samp>
     「 Computer Science Bachelor of @ 🐦 <b>UNIVERSIDAD MAYOR DE SAN SIMON </b> 」<br>
