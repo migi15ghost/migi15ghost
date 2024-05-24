@@ -8,10 +8,11 @@
    <summary> <samp>&#9776; Details</samp></summary>
    <p align="center">
      <br>
-      <a href="#" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
-      <a href="#" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
-      <a href="#" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f1e05a?style=flat-square&logo=Javascript&logoColor=white"></a>
-      <a href="#" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-e34c26?style=flat-square"></a>
+      <a href="#" target="_blank"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"></a>
+      <a href="#" target="_blank"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
+      <a href="#" target="_blank"><img alt="Android" src="[https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)"></a>
+      <a href="#" target="_blank"><img alt="Spring" src="[https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)"></a>
+     
   <br>
   </p>
 </details>
