@@ -4,6 +4,16 @@
     「 Computer Science Bachelor of @ 🐦 <b>UNIVERSIDAD MAYOR DE SAN SIMON </b> 」<br>
    </samp>
 </p>
+<div style="display:inline;">
+    <ul style="display: inline;">
+        <li>&#8227; <a href="" class="a_top_hypers"> Inbox</a></li>
+        <li>&#8227; <a href="" class="a_top_hypers"> Compose</a></li>
+        <li>&#8227; <a href="" class="a_top_hypers"> Reports</a></li>
+        <li>&#8227; <a href="" class="a_top_hypers"> Preferences</a></li>
+        <li>&#8227; <a href="" class="a_top_hypers"> logout</a></li>
+    </ul>
+</div>
+
 <details align="center">
    <summary> <samp>&#9776; Details</samp></summary>
    <p align="center">
