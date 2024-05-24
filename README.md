@@ -6,11 +6,11 @@
 </p>
 <div style="display:inline;">
     <ul style="display: inline;">
-        <li style="display: inline;">&#8227; <a href="" class="a_top_hypers"> Inbox</a></li>
-        <li style="display: inline;">&#8227; <a href="" class="a_top_hypers"> Compose</a></li>
-        <li style="display: inline;">&#8227; <a href="" class="a_top_hypers"> Reports</a></li>
-        <li style="display: inline;">&#8227; <a href="" class="a_top_hypers"> Preferences</a></li>
-        <li style="display: inline;">&#8227; <a href="" class="a_top_hypers"> logout</a></li>
+        <li style="float: right;">&#8227; <a href="" class="a_top_hypers"> Inbox</a></li>
+        <li style="float: right;">&#8227; <a href="" class="a_top_hypers"> Compose</a></li>
+        <li style="float: right;">&#8227; <a href="" class="a_top_hypers"> Reports</a></li>
+        <li style="float: right;">&#8227; <a href="" class="a_top_hypers"> Preferences</a></li>
+        <li style="float: right;">&#8227; <a href="" class="a_top_hypers"> logout</a></li>
     </ul>
 </div>
 
