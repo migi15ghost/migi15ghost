@@ -10,7 +10,7 @@
       <a href="#" target="_blank"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
       <a href="#" target="_blank"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
       <a href="#" target="_blank"><img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
-     
+      <a href="#" target="_blank"><img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a> 
   <br>
   </p>
 </details>
@@ -26,5 +26,4 @@
 <div style="display: flex; align-items: center;">
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=migi15ghost&show_icons=true&count_private=true&hide_title=false&theme=dracula" alt="Miguel Github Stats" />
 
-<img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=migi15ghost&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="Miguel GitHub Streaks" />
 </div>
