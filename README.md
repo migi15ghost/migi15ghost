@@ -23,9 +23,6 @@
 </samp>
 
 <br />
-<div style="display: flex; align-items: center;">
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=migi15ghost&show_icons=true&count_private=true&hide_title=false&theme=dracula" alt="Miguel Github Stats" />
-</div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=migi15ghost&show_icons=true&locale=en&layout=compact" alt="thehecktour" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=migi15ghost&show_icons=true&locale=en&layout=compact&theme=dracula" alt="thehecktour" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=migi15ghost&show_icons=true&locale=en" alt="thehecktour" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=migi15ghost&show_icons=true&locale=en&hide_title=false&theme=dracula" alt="thehecktour" /></p>
