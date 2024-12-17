@@ -18,7 +18,7 @@
 <samp>
   <p align="center">
     ════ ⋆★⋆ ════<br>
-    From <a href="https://github.com/migi15ghost">MIGI15GHOST</a>
+    From <a href="https://github.com/vivodex">vivodex</a>
   </p>
 </samp>
 
@@ -27,6 +27,6 @@
 <a href="https://www.leetcode.com/MiguelPoma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thehecktour" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=migi15ghost&show_icons=true&locale=en&layout=compact&theme=dracula" alt="thehecktour" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivodex&show_icons=true&locale=en&layout=compact&theme=dracula" alt="thehecktour" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=migi15ghost&show_icons=true&locale=en&hide_title=false&theme=dracula" alt="thehecktour" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivodex&show_icons=true&locale=en&hide_title=false&theme=dracula" alt="thehecktour" /></p>
